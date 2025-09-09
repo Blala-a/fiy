@@ -25,4 +25,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ghcr.io/Blala-a/cccc:latest
+          tags: ghcr.io/blala-a/cccc:latest
